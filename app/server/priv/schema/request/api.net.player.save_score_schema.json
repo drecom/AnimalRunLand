@@ -1,0 +1,1 @@
+{"type":"object","required":["stage_id","score","kind1","kind2","kind3"],"properties":{"stage_id":{"type":"string"},"score":{"type":"number"},"kind3":{"type":"number"},"kind2":{"type":"number"},"kind1":{"type":"number"}}}

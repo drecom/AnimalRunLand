@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3491eaa1d3b904ac0a88a747281c4216, type: 3}
+  m_Name: PoiSettings
+  m_EditorClassIdentifier: 
+  CorrespondenceTable:
+  - Name: School
+    Prefab:
+    - {fileID: 1062431244362468, guid: 03249060e29be624c93e83565a755abc, type: 2}
+    - {fileID: 1524143353078852, guid: 80ae20efb8c9f8b4aa30905f5dea6330, type: 2}
+    - {fileID: 1924937948028340, guid: c7430ad849070504bae920a9a992f942, type: 2}
+  - Name: University
+    Prefab:
+    - {fileID: 1917152923421580, guid: 7261ddcc13c5b9e4f8773f8981f18edd, type: 2}
+  - Name: Park
+    Prefab:
+    - {fileID: 1062431244362468, guid: 03249060e29be624c93e83565a755abc, type: 2}
+    - {fileID: 1524143353078852, guid: 80ae20efb8c9f8b4aa30905f5dea6330, type: 2}
+    - {fileID: 1924937948028340, guid: c7430ad849070504bae920a9a992f942, type: 2}
+  - Name: EvacuationFacilities
+    Prefab:
+    - {fileID: 1062431244362468, guid: 03249060e29be624c93e83565a755abc, type: 2}
+    - {fileID: 1524143353078852, guid: 80ae20efb8c9f8b4aa30905f5dea6330, type: 2}
+    - {fileID: 1924937948028340, guid: c7430ad849070504bae920a9a992f942, type: 2}
+  - Name: FireStation
+    Prefab:
+    - {fileID: 1629175654793458, guid: 6688783fd57e07b4abf196238144786a, type: 2}
+    - {fileID: 1564564477017126, guid: 2e76d1e152c35ef44b362632652e87f1, type: 2}
+  - Name: PublicFacility
+    Prefab:
+    - {fileID: 1062431244362468, guid: 03249060e29be624c93e83565a755abc, type: 2}
+    - {fileID: 1524143353078852, guid: 80ae20efb8c9f8b4aa30905f5dea6330, type: 2}
+    - {fileID: 1924937948028340, guid: c7430ad849070504bae920a9a992f942, type: 2}
+  - Name: AttractCustomersFacility
+    Prefab:
+    - {fileID: 1917152923421580, guid: 7261ddcc13c5b9e4f8773f8981f18edd, type: 2}
+  - Name: FuelFillStation
+    Prefab:
+    - {fileID: 1629175654793458, guid: 6688783fd57e07b4abf196238144786a, type: 2}
+    - {fileID: 1564564477017126, guid: 2e76d1e152c35ef44b362632652e87f1, type: 2}
+  - Name: PostOfice
+    Prefab:
+    - {fileID: 1629175654793458, guid: 6688783fd57e07b4abf196238144786a, type: 2}
+    - {fileID: 1564564477017126, guid: 2e76d1e152c35ef44b362632652e87f1, type: 2}
+  - Name: PoliceStation
+    Prefab:
+    - {fileID: 1629175654793458, guid: 6688783fd57e07b4abf196238144786a, type: 2}
+    - {fileID: 1564564477017126, guid: 2e76d1e152c35ef44b362632652e87f1, type: 2}
+  - Name: Station
+    Prefab:
+    - {fileID: 1542141737372702, guid: bbe7835bbe14f864a90dbf6212420295, type: 2}
+  - Name: SevenEleven
+    Prefab:
+    - {fileID: 1819676286285848, guid: a5c04687dec024c41aab903adeae1f57, type: 2}
+  - Name: Lawson
+    Prefab:
+    - {fileID: 1336490290439310, guid: 43a544b6ccf4a3345ae8883aff2468a7, type: 2}
+  - Name: FamilyMart
+    Prefab:
+    - {fileID: 1437435698795990, guid: ba11a12a6012c674fbfb5c5988a2dc84, type: 2}
+  - Name: Ministop
+    Prefab:
+    - {fileID: 1380567989933882, guid: 3a4f829d68995604c837c8c5715f0c7f, type: 2}
+  - Name: DailyYamazaki
+    Prefab:
+    - {fileID: 1831603919807474, guid: 5ebed37a22c8cdb4c93282bc562a6007, type: 2}
+  - Name: Popura
+    Prefab:
+    - {fileID: 1950556992853808, guid: e7e5925579f515f49994eb1814b265e8, type: 2}
+  Unknown: {fileID: 1629175654793458, guid: 6688783fd57e07b4abf196238144786a, type: 2}

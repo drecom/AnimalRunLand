@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33580512afd2d4b7cb7c0d8c36104d27, type: 3}
+  m_Name: DialogSettings
+  m_EditorClassIdentifier: 
+  bodies:
+  - Title: "\u4F4D\u7F6E\u60C5\u5831\u3092\u53D6\u5F97\u3067\u304D\u307E\u305B\u3093"
+    SubTitle: 
+    Message: "\u30A2\u30CB\u30DE\u30EB\u30E9\u30F3\u30E9\u30F3\u30C9\u306E\u4F4D\u7F6E\u60C5\u5831\u30B5\u30FC\u30D3\u30B9\u3092\u8A31\u53EF\u3057\u3066\u304F\u3060\u3055\u3044\u3002\n\u30D7\u30E9\u30A4\u30D0\u30B7\u30FC>\u4F4D\u7F6E\u60C5\u5831\u30B5\u30FC\u30D3\u30B9\u304B\u3089\u5909\u66F4\u3067\u304D\u307E\u3059\u3002"
+    CloseButton: 0
+  - Title: "\u78BA\u8A8D"
+    SubTitle: 
+    Message: "\u3053\u306E\u5834\u6240\u3067\u306F\u30B2\u30FC\u30E0\u3092\u958B\u59CB\u3067\u304D\u307E\u305B\u3093\u3002\u5834\u6240\u3092\u5909\u3048\u3066\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002"
+    CloseButton: 0
+  - Title: "\u4F4D\u7F6E\u60C5\u5831\u306E\u53D6\u5F97\u306B\u5931\u6557\u3057\u307E\u3057\u305F"
+    SubTitle: 
+    Message: "\u4F4D\u7F6E\u60C5\u5831\u306E\u53D6\u5F97\u306B\u5931\u6557\u3057\u307E\u3057\u305F\u3002\u6642\u9593\u3092\u7A7A\u3051\u3066\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002"
+    CloseButton: 0

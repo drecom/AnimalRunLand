@@ -1,0 +1,1 @@
+{"type":"object","required":["key","enum_value"],"properties":{"key":{"type":"string"},"enum_value":{"type":"number"}}}

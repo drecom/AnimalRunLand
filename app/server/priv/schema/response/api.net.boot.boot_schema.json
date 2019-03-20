@@ -1,0 +1,1 @@
+{"type":"object","required":["masterdata_json","api_url","api_version","asset_bundle_url"],"properties":{"masterdata_json":{"type":"string"},"asset_bundle_url":{"type":"string"},"api_version":{"type":"string"},"api_url":{"type":"string"}}}

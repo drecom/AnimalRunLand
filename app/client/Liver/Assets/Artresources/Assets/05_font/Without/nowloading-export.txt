@@ -1,0 +1,53 @@
+info face="/Users/hanafusa_toshimitsu/Desktop/beef/レバーエフェクト
+owloading-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=80 base=26 scaleW=128 scaleH=64 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="/Users/hanafusa_toshimitsu/Desktop/beef/レバーエフェクト
+owloading-export.png"
+chars count=11
+char id=110 x=48 y=26 width=21 height=25 xoffset=0 yoffset=55 xadvance=22 page=0 chnl=0 letter="n"
+char id=111 x=0 y=26 width=24 height=27 xoffset=0 yoffset=54 xadvance=25 page=0 chnl=0 letter="o"
+char id=119 x=0 y=0 width=30 height=25 xoffset=0 yoffset=55 xadvance=31 page=0 chnl=0 letter="w"
+char id=108 x=70 y=26 width=17 height=25 xoffset=0 yoffset=55 xadvance=18 page=0 chnl=0 letter="l"
+char id=97 x=31 y=0 width=22 height=25 xoffset=0 yoffset=55 xadvance=23 page=0 chnl=0 letter="a"
+char id=100 x=54 y=0 width=21 height=25 xoffset=0 yoffset=55 xadvance=22 page=0 chnl=0 letter="d"
+char id=105 x=76 y=0 width=7 height=25 xoffset=0 yoffset=55 xadvance=8 page=0 chnl=0 letter="i"
+char id=103 x=25 y=26 width=22 height=27 xoffset=0 yoffset=54 xadvance=23 page=0 chnl=0 letter="g"
+char id=46 x=0 y=54 width=8 height=8 xoffset=0 yoffset=73 xadvance=9 page=0 chnl=0 letter="."
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=34
+kerning first=97  second=100  amount=-2
+kerning first=97  second=103  amount=-4
+kerning first=97  second=119  amount=-5
+kerning first=100  second=97  amount=-4
+kerning first=100  second=103  amount=-1
+kerning first=100  second=111  amount=-1
+kerning first=100  second=119  amount=-2
+kerning first=100  second=46  amount=-3
+kerning first=103  second=97  amount=-2
+kerning first=103  second=108  amount=-1
+kerning first=103  second=111  amount=-1
+kerning first=103  second=103  amount=-1
+kerning first=103  second=46  amount=-1
+kerning first=105  second=100  amount=-1
+kerning first=105  second=103  amount=-1
+kerning first=105  second=111  amount=-1
+kerning first=108  second=97  amount=-2
+kerning first=108  second=100  amount=-2
+kerning first=108  second=103  amount=-4
+kerning first=108  second=111  amount=-4
+kerning first=108  second=119  amount=-5
+kerning first=110  second=100  amount=-1
+kerning first=110  second=103  amount=-1
+kerning first=110  second=111  amount=-1
+kerning first=110  second=119  amount=-1
+kerning first=111  second=108  amount=-1
+kerning first=111  second=110  amount=-1
+kerning first=111  second=119  amount=-2
+kerning first=111  second=46  amount=-3
+kerning first=119  second=97  amount=-5
+kerning first=119  second=100  amount=-2
+kerning first=119  second=103  amount=-3
+kerning first=119  second=111  amount=-3
+kerning first=119  second=46  amount=-4

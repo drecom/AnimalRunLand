@@ -1,0 +1,207 @@
+[
+	{ 
+		"PointName": "秋葉原駅", 
+		"Latitude":  35.698632, 
+		"Longitude": 139.773179 
+	},
+	{
+		"PointName": "目黒駅",
+		"Latitude":  35.633763,
+		"Longitude": 139.715434 
+	},
+	{
+		"PointName": "東京駅",
+		"Latitude":  35.680358,
+		"Longitude": 139.769065
+	},
+	{
+		"PointName": "渋谷駅",
+		"Latitude":  35.657627,
+		"Longitude": 139.701913
+	},
+	{
+		"PointName": "新宿駅",
+		"Latitude":  35.691251,
+		"Longitude": 139.698369
+	},
+	{
+		"PointName": "品川駅",
+		"Latitude":  35.628982,
+		"Longitude": 139.737574
+	},
+	{
+		"PointName": "東京タワー",
+		"Latitude":  35.658533,
+		"Longitude": 139.745416
+	},
+	{
+		"PointName": "市ヶ谷駅",
+		"Latitude":  35.691054,
+		"Longitude": 139.735956
+	},
+	{
+		"PointName": "東京テレポート",
+		"Latitude":  35.627924,
+		"Longitude": 139.778292
+	},
+	{
+		"PointName": "勝どき",
+		"Latitude":  35.659334,
+		"Longitude": 139.777669
+	},
+	{
+		"PointName": "運河駅",
+		"Latitude":  35.914411,
+		"Longitude": 139.905995
+	},
+	{ 
+		"PointName": "中山駅", 
+		"Latitude":  35.5147987, 
+		"Longitude": 139.5287634 
+	},
+	{
+		"PointName": "鴨居駅",
+		"Latitude":  35.511058,
+		"Longitude": 139.5666111 
+	},
+	{
+		"PointName": "日枝神社",
+		"Latitude":  35.955148,
+		"Longitude": 139.910330
+	},
+	{
+		"PointName": "森永乳業",
+		"Latitude":  35.986154,
+		"Longitude": 139.947351
+	},
+	{
+		"PointName": "小絹",
+		"Latitude":  35.983806,
+		"Longitude": 139.981276
+	},
+	{
+		"PointName": "江戸城跡",
+		"Latitude":  35.686643,
+		"Longitude": 139.750009
+	},
+	{
+		"PointName": "豊洲水門",
+		"Latitude":  35.663433,
+		"Longitude": 139.790724
+	},
+	{
+		"PointName": "東京総合車両センター",
+		"Latitude":  35.611583,
+		"Longitude": 139.732461
+	},
+	{
+		"PointName": "旭川駅",
+		"Latitude": 43.763183,
+		"Longitude": 142.359027
+	},
+	{
+		"PointName": "札幌駅",
+		"Latitude": 43.067148,
+		"Longitude": 141.350205
+	},
+	{
+		"PointName": "青森駅",
+		"Latitude": 40.827571,
+		"Longitude": 140.734402
+	},
+	{
+		"PointName": "新潟駅",
+		"Latitude": 37.913884,
+		"Longitude": 139.060714
+	},
+	{
+		"PointName": "名古屋駅",
+		"Latitude": 35.171326,
+		"Longitude": 136.884230
+	},
+	{
+		"PointName": "京都駅",
+		"Latitude":  34.9822933,
+		"Longitude": 135.7332158
+	},
+	{
+		"PointName": "大阪駅",
+		"Latitude": 34.701268,
+		"Longitude": 135.496820
+	},
+	{
+		"PointName": "広島駅",
+		"Latitude":  34.3932421,
+		"Longitude": 132.4448844
+	},
+	{
+		"PointName": "和歌山駅",
+		"Latitude": 34.232064,
+		"Longitude": 135.190415
+	},
+	{
+		"PointName": "博多駅",
+		"Latitude":  33.589978,
+		"Longitude": 130.422397
+	},
+	{
+		"PointName": "鹿児島中央駅",
+		"Latitude":  31.584074,
+		"Longitude": 130.543993
+	},
+	{
+		"PointName": "函館アリーナ",
+		"Latitude":  41.7820437,
+		"Longitude": 140.7811361
+	},
+	{
+		"PointName": "大島",
+		"Latitude": 34.751451,
+		"Longitude": 139.355779
+	},
+	{
+		"PointName": "淡路島",
+		"Latitude": 34.260249,
+		"Longitude": 134.724720
+	},
+	{
+		"PointName": "鳴門海峡",
+		"Latitude": 34.238663,
+		"Longitude": 134.651227
+	},
+	{
+		"PointName": "対馬",
+		"Latitude": 34.214925,
+		"Longitude": 129.285393
+	},
+	{
+		"PointName": "佐渡",
+		"Latitude": 38.017534,
+		"Longitude": 138.373833
+	},
+	{
+		"PointName": "南相馬市",
+		"Latitude": 37.626316,
+		"Longitude": 141.020100
+	},
+	{
+		"PointName": "納沙布",
+		"Latitude": 43.383874,
+		"Longitude": 145.809817
+	},
+	{
+		"PointName": "南稚内駅（最北端）",
+		"Latitude":  45.4050835,
+		"Longitude": 141.6760646
+	},
+	{
+		"PointName": "那覇市（最南端）",
+		"Latitude":  26.1990008,
+		"Longitude": 127.7115144
+	},
+	{
+		"PointName": "ノード無しエリア",
+		"Latitude": 35.587701,
+		"Longitude": 139.882092
+	}
+]

@@ -1,0 +1,1 @@
+{"type":"object","required":["client_api_version"],"properties":{"client_api_version":{"type":"string"}}}

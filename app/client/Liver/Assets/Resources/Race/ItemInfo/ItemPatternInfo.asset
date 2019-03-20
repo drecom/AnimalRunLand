@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9cd1dc0193d4dee960b348af0e7d6f, type: 3}
+  m_Name: ItemPatternInfo
+  m_EditorClassIdentifier: 
+  Patterns:
+  - Pattern: {fileID: 4900000, guid: cd00f1afef432441aba7d43587e1b1b9, type: 3}
+    Rate: 100
+    ExtraRate:
+    - Kind: 7
+      Rate: 10
+  - Pattern: {fileID: 4900000, guid: 6dc4c521907284544b3acdfd9306c4aa, type: 3}
+    Rate: 100
+    ExtraRate:
+    - Kind: 7
+      Rate: 10
+  - Pattern: {fileID: 4900000, guid: 6f6ddb299b6724ca58d50aea21598611, type: 3}
+    Rate: 100
+    ExtraRate:
+    - Kind: 7
+      Rate: 10
+  - Pattern: {fileID: 4900000, guid: e38b46b01b2ff41959c4f055763baf15, type: 3}
+    Rate: 10
+    ExtraRate:
+    - Kind: 7
+      Rate: 100
+  - Pattern: {fileID: 4900000, guid: f058ff961725e432aa4d2ea258ab0f95, type: 3}
+    Rate: 10
+    ExtraRate:
+    - Kind: 7
+      Rate: 100
+  - Pattern: {fileID: 4900000, guid: 7b3f5089554f94b98b33b2c1748e5f9a, type: 3}
+    Rate: 10
+    ExtraRate:
+    - Kind: 7
+      Rate: 100
+  - Pattern: {fileID: 4900000, guid: 5e71a6fc2c42d494289810db483e9bab, type: 3}
+    Rate: 40
+    ExtraRate:
+    - Kind: 7
+      Rate: 4
+  - Pattern: {fileID: 4900000, guid: 02f906e0f246b4add84bcc47ad8fe5f0, type: 3}
+    Rate: 40
+    ExtraRate:
+    - Kind: 7
+      Rate: 4
+  - Pattern: {fileID: 4900000, guid: f86b1774db78e4e968b191112e584558, type: 3}
+    Rate: 40
+    ExtraRate:
+    - Kind: 7
+      Rate: 4
+  - Pattern: {fileID: 4900000, guid: a5f26234977e940bc8946b2028491241, type: 3}
+    Rate: 40
+    ExtraRate:
+    - Kind: 7
+      Rate: 4
+  - Pattern: {fileID: 4900000, guid: 299428e85f19447909b55fc8f6209524, type: 3}
+    Rate: 40
+    ExtraRate:
+    - Kind: 7
+      Rate: 4
+  - Pattern: {fileID: 4900000, guid: a70a25caf402846a29e945255098478b, type: 3}
+    Rate: 40
+    ExtraRate:
+    - Kind: 7
+      Rate: 4
+  - Pattern: {fileID: 4900000, guid: 230e31eb09ed9420094eff15db863b8d, type: 3}
+    Rate: 4
+    ExtraRate:
+    - Kind: 7
+      Rate: 40
+  - Pattern: {fileID: 4900000, guid: bcdd5ec2ec2b04c74a8eed5da991037c, type: 3}
+    Rate: 4
+    ExtraRate:
+    - Kind: 7
+      Rate: 40
+  - Pattern: {fileID: 4900000, guid: fa651923079b5f549806b03570ab9597, type: 3}
+    Rate: 4
+    ExtraRate:
+    - Kind: 7
+      Rate: 40
+  - Pattern: {fileID: 4900000, guid: 65d8297c0910c6545a2a7a76c2739887, type: 3}
+    Rate: 4
+    ExtraRate:
+    - Kind: 7
+      Rate: 40
+  - Pattern: {fileID: 4900000, guid: 23dd5947f46aee2448d99feace8dd8fc, type: 3}
+    Rate: 4
+    ExtraRate:
+    - Kind: 7
+      Rate: 40
+  - Pattern: {fileID: 4900000, guid: 89643f34fa96f9e4388cd74c9819d4d5, type: 3}
+    Rate: 4
+    ExtraRate:
+    - Kind: 7
+      Rate: 40
+  - Pattern: {fileID: 4900000, guid: 8bed463ce5e75e242a3b80d9debfec34, type: 3}
+    Rate: 60
+    ExtraRate:
+    - Kind: 7
+      Rate: 6
+  - Pattern: {fileID: 4900000, guid: 1a5d4d2fc3c916f4395e68319ee6ec63, type: 3}
+    Rate: 60
+    ExtraRate:
+    - Kind: 7
+      Rate: 6
+  - Pattern: {fileID: 4900000, guid: a1d42027924fb954db38929b203227ae, type: 3}
+    Rate: 60
+    ExtraRate:
+    - Kind: 7
+      Rate: 6
+  - Pattern: {fileID: 4900000, guid: 77aed3abd828094458cafc502fce6873, type: 3}
+    Rate: 60
+    ExtraRate:
+    - Kind: 7
+      Rate: 6
+  - Pattern: {fileID: 4900000, guid: 5ecd98c07a2d83b4aae8b3b571ec1806, type: 3}
+    Rate: 60
+    ExtraRate:
+    - Kind: 7
+      Rate: 6
+  - Pattern: {fileID: 4900000, guid: 5f1777ac98d7e31419d0cd09d6ff3bcf, type: 3}
+    Rate: 60
+    ExtraRate:
+    - Kind: 7
+      Rate: 6
+  - Pattern: {fileID: 4900000, guid: a0b9d7b09528b404bb1d83451c5073f9, type: 3}
+    Rate: 6
+    ExtraRate:
+    - Kind: 7
+      Rate: 60
+  - Pattern: {fileID: 4900000, guid: 05cdae8953045c947952718c931a6800, type: 3}
+    Rate: 6
+    ExtraRate:
+    - Kind: 7
+      Rate: 60
+  - Pattern: {fileID: 4900000, guid: 3248153532b3ae24aaa27f7b44167a8c, type: 3}
+    Rate: 6
+    ExtraRate:
+    - Kind: 7
+      Rate: 60
+  - Pattern: {fileID: 4900000, guid: 74d0cfec183daf146b80476ad6818b20, type: 3}
+    Rate: 6
+    ExtraRate:
+    - Kind: 7
+      Rate: 60
+  - Pattern: {fileID: 4900000, guid: 5b82808d82e4fe24cbb2a21801295472, type: 3}
+    Rate: 6
+    ExtraRate:
+    - Kind: 7
+      Rate: 60
+  - Pattern: {fileID: 4900000, guid: 7e14a3fd74847c24eb08745b5e58b60e, type: 3}
+    Rate: 6
+    ExtraRate:
+    - Kind: 7
+      Rate: 60

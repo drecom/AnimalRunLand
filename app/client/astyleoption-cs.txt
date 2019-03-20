@@ -1,0 +1,62 @@
+############################
+# Artistic Style Option Config File for CSharp.
+# http://astyle.sourceforge.net/astyle.html
+###########################
+
+# CSharp mode
+mode=cs
+
+# originalファイルを生成しない
+suffix=none
+
+# Brace Style Option
+style=allman
+
+# インデントにスペースを使う
+indent=spaces=4
+
+# 改行LF
+lineend=linux
+
+# 演算子の周りに空白を入れます
+pad-oper
+pad-comma
+
+# 括弧()の外側と内側のスペースを削除
+unpad-paren
+
+# Class定義時にインデントする
+indent-classes
+
+# switch文の中をインデントする
+indent-switches
+
+# case文の中をインデントする
+indent-cases
+
+# if, while, switchの後にpaddingを入れる
+pad-header
+
+# 演算子の前後にpaddingを入れる
+pad-oper
+
+# if, while, switchの後ろに{}を付ける
+add-brackets
+
+# コメントもインデントする
+indent-col1-comments
+
+# if, while, switchブロックの前後に改行を入れる
+break-blocks
+
+# 一行ブロックに{}をつける
+add-brackets
+
+# 関数内の不要な空行の削除
+delete-empty-lines
+
+# 複文の一行ブロックを許可(Property等)
+keep-one-line-blocks
+
+# namespace用のインデントは無視
+# indent-namespaces # 指定するとインデント

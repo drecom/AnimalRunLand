@@ -1,0 +1,1 @@
+{"type":"object","required":["access_token","expires_in"],"properties":{"expires_in":{"type":"number"},"access_token":{"type":"string"}}}

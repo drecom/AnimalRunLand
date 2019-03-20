@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 5e031a9f90ce44748b3d669a17cae928
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: all
+    100002: //RootNode
+    100004: chair_joint_1
+    100006: chair_joint_2
+    100008: chair_joint_3
+    100010: chair_joint_4
+    100012: chair_joint_5
+    100014: chair_joint_6
+    100016: chair_joint_7
+    100018: chair_joint_8
+    100020: chair_shadow_1
+    100022: chair_shadow_2
+    100024: chair_shadow_3
+    100026: chair_shadow_4
+    100028: chair_shadow_5
+    100030: chair_shadow_6
+    100032: chair_shadow_7
+    100034: chair_shadow_8
+    100036: daiya_joint_1
+    100038: daiya_joint_10
+    100040: daiya_joint_11
+    100042: daiya_joint_12
+    100044: daiya_joint_2
+    100046: daiya_joint_3
+    100048: daiya_joint_4
+    100050: daiya_joint_5
+    100052: daiya_joint_6
+    100054: daiya_joint_7
+    100056: daiya_joint_8
+    100058: daiya_joint_9
+    100060: maru_joint
+    100062: model
+    100064: root
+    100066: star_joint
+    400000: all
+    400002: //RootNode
+    400004: chair_joint_1
+    400006: chair_joint_2
+    400008: chair_joint_3
+    400010: chair_joint_4
+    400012: chair_joint_5
+    400014: chair_joint_6
+    400016: chair_joint_7
+    400018: chair_joint_8
+    400020: chair_shadow_1
+    400022: chair_shadow_2
+    400024: chair_shadow_3
+    400026: chair_shadow_4
+    400028: chair_shadow_5
+    400030: chair_shadow_6
+    400032: chair_shadow_7
+    400034: chair_shadow_8
+    400036: daiya_joint_1
+    400038: daiya_joint_10
+    400040: daiya_joint_11
+    400042: daiya_joint_12
+    400044: daiya_joint_2
+    400046: daiya_joint_3
+    400048: daiya_joint_4
+    400050: daiya_joint_5
+    400052: daiya_joint_6
+    400054: daiya_joint_7
+    400056: daiya_joint_8
+    400058: daiya_joint_9
+    400060: maru_joint
+    400062: model
+    400064: root
+    400066: star_joint
+    2100000: bg_everything
+    4300000: model
+    9500000: //RootNode
+    13700000: model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

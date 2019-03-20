@@ -1,0 +1,74 @@
+-Director-
+YKK
+		
+-Producer-
+xkxaxix
+		
+-Assistant Producer-
+enimur
+		
+-Art Director-
+花房利光
+		
+-3D Director-
+Taiki Kurayashiki
+		
+-3D Modeler-
+Yumi Teppozuka
+Chiaki Birou
+Haruna Kawagoe
+		
+-UI Guitarist-
+ナカユキタカ
+		
+-Effect Director-
+花房利光
+		
+-Sound Director-
+YKK
+		
+-Sound Effects Director-
+YKK
+		
+-Unity Technical Advisor-
+Makoto Ito
+		
+-AROW Master-
+Super Hero J
+		
+-AROW Engineer-
+Da Yose
+		
+-Programmer-
+h.godai
+Nishiyama Nobuyuki
+kou_yeung
+Tomoyo Tanigawa
+Super Hero J
+		
+-QA Assistant-
+Suzuki Nobuyuki
+enimur
+		
+-T&C Editor-
+enimur
+		
+-Development Partners-
+Forces11 Co.,Ltd.
+TECHNICAL ARTS Corp.
+		
+-BGM・SE-
+(C)PANICPUMPKIN
+SKIPMORE
+Taira Komori
+		
+-Special Thanks-
+Akio
+Semla Nagata
+SmallRiver
+Lassie
+		
+-Powered by-
+AROW
+		
+		

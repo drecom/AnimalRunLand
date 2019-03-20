@@ -1,0 +1,1 @@
+{"type":"object","required":["player_name","savedata","passcode","kind"],"properties":{"savedata":{"type":"string"},"player_name":{"type":"string"},"passcode":{"type":"string"},"kind":{"type":"number"}}}

@@ -1,0 +1,1 @@
+{"type":"object","required":["accepted","order_in_stage","my_high_score"],"properties":{"order_in_stage":{"type":"number"},"my_high_score":{"type":"number"},"accepted":{"type":"boolean"}}}

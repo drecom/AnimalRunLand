@@ -1,0 +1,1 @@
+{"type":"object","required":["key","boolean_value","intar","test_master","test_model","enum_value"],"properties":{"test_model":{"type":"object"},"test_master":{"type":"object"},"nullable_value":{"type":"number"},"key":{"type":"string"},"intar":{"type":"array"},"enum_value":{"type":"number"},"boolean_value":{"type":"boolean"}}}

@@ -1,0 +1,27 @@
+version: '3.2'
+services:
+  game:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mysql
+    environment:
+      - MIX_ENV=dev
+      - PORT=3000
+    command: mix phx.server
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  mysql:
+    image: mysql:5.7
+    container_name: "game-mysql"
+    restart: always
+    environment:
+      MYSQL_DATABASE: firestorm_dev
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root

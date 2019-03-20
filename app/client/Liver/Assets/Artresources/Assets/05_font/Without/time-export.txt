@@ -1,0 +1,20 @@
+info face="/Users/hanafusa_toshimitsu/Desktop/beef/その他/countup	ime-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=80 base=26 scaleW=512 scaleH=1024 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="/Users/hanafusa_toshimitsu/Desktop/beef/その他/countup	ime-export.png"
+chars count=14
+char id=43 x=162 y=198 width=134 height=137 xoffset=0 yoffset=-86 xadvance=135 page=0 chnl=0 letter="+"
+char id=48 x=0 y=370 width=158 height=199 xoffset=0 yoffset=-119 xadvance=159 page=0 chnl=0 letter="0"
+char id=49 x=304 y=198 width=115 height=195 xoffset=0 yoffset=-117 xadvance=116 page=0 chnl=0 letter="1"
+char id=50 x=175 y=0 width=141 height=197 xoffset=0 yoffset=-119 xadvance=142 page=0 chnl=0 letter="2"
+char id=51 x=302 y=566 width=140 height=197 xoffset=0 yoffset=-119 xadvance=141 page=0 chnl=0 letter="3"
+char id=52 x=0 y=175 width=161 height=194 xoffset=0 yoffset=-119 xadvance=162 page=0 chnl=0 letter="4"
+char id=53 x=159 y=566 width=142 height=198 xoffset=0 yoffset=-119 xadvance=143 page=0 chnl=0 letter="5"
+char id=54 x=156 y=770 width=154 height=199 xoffset=0 yoffset=-118 xadvance=155 page=0 chnl=0 letter="6"
+char id=55 x=159 y=370 width=144 height=195 xoffset=0 yoffset=-115 xadvance=145 page=0 chnl=0 letter="7"
+char id=56 x=0 y=570 width=158 height=199 xoffset=0 yoffset=-119 xadvance=159 page=0 chnl=0 letter="8"
+char id=57 x=0 y=770 width=155 height=199 xoffset=0 yoffset=-119 xadvance=156 page=0 chnl=0 letter="9"
+char id=115 x=0 y=0 width=174 height=174 xoffset=0 yoffset=-106 xadvance=175 page=0 chnl=0 letter="s"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

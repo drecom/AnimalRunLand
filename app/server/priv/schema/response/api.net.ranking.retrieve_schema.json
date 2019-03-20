@@ -1,0 +1,1 @@
+{"type":"object","required":["success","order","total_count","rankings"],"properties":{"total_count":{"type":"number"},"success":{"type":"boolean"},"rankings":{"type":"array"},"order":{"type":"number"}}}

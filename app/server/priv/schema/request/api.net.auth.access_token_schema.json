@@ -1,0 +1,1 @@
+{"type":"object","required":["player_id","secret_key"],"properties":{"secret_key":{"type":"string"},"player_id":{"type":"string"}}}

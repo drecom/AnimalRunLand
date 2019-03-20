@@ -1,0 +1,1 @@
+{"type":"object","required":["ranking_type","stage_id","kind1","kind2","term","count"],"properties":{"term":{"type":"number"},"stage_id":{"type":"string"},"ranking_type":{"type":"number"},"kind2":{"type":"number"},"kind1":{"type":"number"},"count":{"type":"number"}}}

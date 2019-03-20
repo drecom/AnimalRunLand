@@ -1,0 +1,1 @@
+{"type":"object","required":["player_id"],"properties":{"player_id":{"type":"string"}}}

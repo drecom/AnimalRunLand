@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Frame
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 54
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f2d132df30166d540bf937f81f005bcb, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0414c0d89bd50254bb274e77c59ded2b, type: 3}
+  - {fileID: 21300000, guid: a5e39346eef02724bb962030007d53ad, type: 3}
+  - {fileID: 21300000, guid: 3a2521acf57e7814e9d68c1dfc9f5fdb, type: 3}
+  - {fileID: 21300000, guid: 595b865883714e944be9ec46a3c68141, type: 3}
+  - {fileID: 21300000, guid: 66f118c2696b0784fb6af012851936e0, type: 3}
+  - {fileID: 21300000, guid: d550d056bf85b40c482a7149b4fbd370, type: 3}
+  - {fileID: 21300000, guid: 7432acc74465382449603e945a465432, type: 3}
+  - {fileID: 21300000, guid: 95c13c440c0843e4a9fcaa40bc7609f6, type: 3}
+  - {fileID: 21300000, guid: b561db40bd62f0b49a8fec028ec83a3e, type: 3}
+  - {fileID: 21300000, guid: 0c87a92c43081c54b9d6da977aa8cec2, type: 3}
+  - {fileID: 21300000, guid: 49a13ae9a5ef8c3429b340c0f420d9d8, type: 3}
+  - {fileID: 21300000, guid: c1a28f08029326a48912851a697df632, type: 3}
+  - {fileID: 21300000, guid: e41a264f95411a148ac6df364675b35a, type: 3}
+  - {fileID: 21300000, guid: 3755b35fc3d1f0740b3af7e3f41196e4, type: 3}
+  - {fileID: 21300000, guid: f698d374a22e0cf46a32cb08d086aecd, type: 3}
+  - {fileID: 21300000, guid: b3bf9b0a09197b344b8c17e0596dd646, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - modal
+  - modal2
+  - sign_up
+  - window_select
+  - bg_item_area
+  - map_bg
+  - bg_navi
+  - bg_text
+  - text_bg_user
+  - text_bg2
+  - bg_star
+  - textbox
+  - bg_information02
+  - text_bg
+  - bg_score
+  - bg_item
+  m_Tag: Frame
+  m_IsVariant: 0
