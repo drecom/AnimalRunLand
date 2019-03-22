@@ -28,5 +28,4 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 
 ## コピーライト
 
-ドリコム
-テクニカルアーツ
+Copyright (c) 2018 Drecom Co., Ltd. ・ TECHNICAL ARTS Corp. All Rights Reserved.

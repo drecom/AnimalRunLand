@@ -1,12 +1,31 @@
 # アニマルランランド
 
-## リンク
+## 概要
 
-Arow 公式サイト: https://arow.world/
+3DリアルマップとPOIデータを活用するプラットフォーム 「AROW」 の前進となった SDK が組み込まれたアプリ
+「アニマルランランド」の公開ソースコードです。
 
-Android: https://play.google.com/store/apps/details?id=jp.co.drecom.ARL
+### 「アニマルランランド」のアプリ説明
 
-iOS: https://itunes.apple.com/jp/app/id1445978180?mt=8
+![animal_runland_logo](README_images/animal_runland_logo.png)
+![animal_runland_image](README_images/animal_runland_image.png)
+
+知っている街が遊園地になる！アニマルカーを操作し、街を走り回ってスコアを競い合うランゲームです。学校や交番などを通ると制限時間が回復します！自分が知っている街を走り回って、エリアのトップスコアを目指しましょう！
+
+- アプリストアリンク
+  - iOS: https://itunes.apple.com/jp/app/id1445978180?mt=8
+  - Android: https://play.google.com/store/apps/details?id=jp.co.drecom.ARL
+
+### AROWの説明
+
+![AROW_logo_black](README_images/AROW_logo_black.png)
+
+「AROW」 とは3DリアルマップとPOIデータを活用するプラットフォームです。
+
+- AROW の公式リンク
+  - AROW: https://arow.world/
+  - facebook AROW ページ: https://www.facebook.com/AROW-266389430650623/
+  - facebook AROW 開発者グループ「AROW 相談所」: https://www.facebook.com/groups/arow.developer.poi
 
 
 # アニマルランランドゲーム起動ガイド
@@ -17,13 +36,13 @@ iOS: https://itunes.apple.com/jp/app/id1445978180?mt=8
 
 - Mac OS X 10.14.3
 - Unity 2017.4.5f1
-- Docker version 18.09.2
+- Docker 18.09.2
 
 ## ゲームサーバの用意
 
-以下は Docker を利用する場合です。
+アニマルランランドで利用するゲームサーバを起動します。
 
-起動コマンド
+以下は Docker を利用する場合の起動コマンドです。
 
 ```
 cd app/server
@@ -37,9 +56,14 @@ docker-compose exec game bash -c "./redis-5.0.3/src/redis-server ./redis.conf &&
 
 ## マップデータの用意
 
-URL
+アニマルランランドで利用するマップデータを展開します。このマップデータはおよそ東京都/神奈川県全域とその周辺（経度 35〜36度,緯度 139〜140度）のデータを含みます。
 
-ダウンロードしたファイルを app/client/Liver 以下に展開してください。
+```
+cd app/client/Liver
+unzip MapData1.zip
+unzip MapData2.zip
+unzip MapData3.zip
+```
 
 ## Unity プロジェクトの起動
 
