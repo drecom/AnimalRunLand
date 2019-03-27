@@ -1,5 +1,5 @@
 クライアント用のUnityプロジェクトです
 
-## コピーライト
+## Copyright
 
 Copyright ©　2019　Drecom Co., Ltd.
