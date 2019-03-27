@@ -2,4 +2,4 @@
 
 ## コピーライト
 
-Copyright (c) 2018 Drecom Co., Ltd. All Rights Reserved.
+Copyright ©　2019　Drecom Co., Ltd.  / TECHNICAL ARTS Corp.
