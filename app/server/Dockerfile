@@ -3,8 +3,10 @@ FROM elixir:1.5.1
 ENV NODE_VERSION 10
 ENV PHOENIX_VERSION 1.4.0
 
-RUN apt-get update \
+RUN echo "deb http://deb.debian.org/debian jessie main" > /etc/apt/sources.list \
+    && echo "deb http://security.debian.org jessie/updates main" >> /etc/apt/sources.list \
     && curl -sL https://deb.nodesource.com/setup_${NODE_VERSION}.x | bash \
+    && apt-get update \
     && apt-get install -y nodejs inotify-tools
 
 RUN mkdir /myapp
